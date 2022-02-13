@@ -1,0 +1,12 @@
+name: app1
+title:
+username:
+account: charlesluo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 997444
+bundleId: 2177300
+url: https://charlesluo.shinyapps.io/app1/
+when: 1561475264.14851
+asMultiple: FALSE
+asStatic: FALSE
