@@ -18,6 +18,7 @@ Calculates table of upper prediction bounds for hazard ratio given 2 assumed sur
 Linear_and_quadratic_decision_boundary_plotting.R - 
 Identifies the boundary, plot it together with the linear or quadratic fitted curve.
 
+H0_H1_power_PoS_plots.R - 
 Produces 2 plots. First one gives distribution under 2 hypotheses H0 and H1, with alpha and beta highlighted. Second one gives distribution for power calculation vs distribution for PoS calculation, critical value highlighted.
 
 ## Phase 3
